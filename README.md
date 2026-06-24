@@ -72,3 +72,4 @@ To monitor your real CI/CD pipeline runs:
 * **`tests/`**: Real, raw Playwright E2E spec tests.
 * **`playwright.config.ts`**: Configuration specifying testing ports, timeout settings, and automated development server start commands.
 * **`.github/workflows/playwright.yml`**: Real GitHub Actions runner workflow steps.
+This is a test feature for practicing PRs and Code Review.
